@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">Kiosker</string>
+
+    <!-- Strings related to login -->
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Пароль</string>
+    <string name="action_set_pass_and_block">Установить пароль и заблокировать</string>
+    <string name="action_set_new_pass_and_block">Установить новый пароль и заблокировать</string>
+    <string name="action_unblock">Разблокировать систему</string>
+    <string name="action_block">Только заблокировать (со старым паролем)</string>
+    <string name="error_invalid_email">This email address is invalid</string>
+    <string name="error_invalid_password">Пароль слишком короткий</string>
+    <string name="error_incorrect_password">Неверный пароль</string>
+    <string name="error_field_required">This field is required</string>
+    <string name="permission_rationale">"Contacts permissions are needed for providing email
+        completions."
+    </string>
+    <string name="copyright">© DoubleBrainProduction</string>
+    <string name="testVersionDisclimer">Это тестовая версия приложения! Пароль будет виден всем пользователям.</string>
+    <string name="currentPassword" formatted="false">Текущий пароль: %s</string>
+    <string name="currentPasswordNotSet">не установлен</string>
+    <string name="allow">Allow</string>
+    <string name="dont_allow">Dont allow</string>
+    <string name="application_error">Application error: %s</string>
+    <string name="setupText">Нажав кнопку \"УСТАНОВКА\" ниже, вы увидите диалог - выберите \"Kiosker\" и затем нажмите на кнопку \"Всегда\". НЕ нажимайте кнопку \"Только сейчас\"! \n\nИзмененные настройки автоматически восстановятся после удаления приложения \"Kiosker\" в будущем.</string>
+    <string name="setupButtonText">УСТАНОВКА</string>
+    <string name="welcomeText">WELCOME!</string>
+    <string name="alarm_full_version_present">Удалите сначала Полную версию!</string>
+    <string name="alarm_demo_version_present">Удалите сначала ДЕМО версию!</string>
+    <string name="alarm_onec_not_found">App not found! Install it first.</string>
+    <string name="error_unsupported">Возможно ваше устройство не поддерживается, пожалуйста удалите программу или попробуйте перезагрузить систему.</string>
+    <string name="not_selected_app">Еще не выбрано, тап для выбора</string>
+    <string name="tap_on_app_name_to_change_it">Тап на имени приложения, чтобы поменять</string>
+    <string name="kiosk_mode_for_app">Режим киоска для приложения:</string>
+</resources>

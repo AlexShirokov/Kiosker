@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">Kiosker</string>
+
+    <!-- Strings related to login -->
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password</string>
+    <string name="action_set_pass_and_block">Set password and Block</string>
+    <string name="action_set_new_pass_and_block">Set new password and Block</string>
+    <string name="action_unblock">Unblock</string>
+    <string name="action_block">Just Block (with old password)</string>
+    <string name="error_invalid_email">This email address is invalid</string>
+    <string name="error_invalid_password">This password is too short</string>
+    <string name="error_incorrect_password">This password is incorrect</string>
+    <string name="error_field_required">This field is required</string>
+    <string name="permission_rationale">"Contacts permissions are needed for providing email
+        completions."
+    </string>
+    <string name="copyright">© DoubleBrainProduction</string>
+    <string name="testVersionDisclimer">This is a test version of the application! The password will be visible to all users.</string>
+    <string name="currentPassword" formatted="false">Current password: %s</string>
+    <string name="currentPasswordNotSet">none</string>
+    <string name="allow">Allow</string>
+    <string name="dont_allow">Dont allow</string>
+    <string name="application_error">Application error: %s</string>
+    <string name="setupText">Tap on the SETUP button below and You\'ll see chooser dialog - Tap on the \"Kiosker\" and press \"Always\" button. DO NOT PRESS \"Once\" BUTTON.</string>
+    <string name="setupButtonText">SETUP</string>
+    <string name="welcomeText">WELCOME!</string>
+    <string name="alarm_full_version_present">Uninstall Full version first!</string>
+    <string name="alarm_demo_version_present">Uninstall DEMO version first!</string>
+    <string name="alarm_onec_not_found">App not found! Install it first.</string>
+    <string name="error_unsupported">Probably your device is unsupported, please uninstall Kiosker or try to reboot system.</string>
+    <string name="not_selected_app">Not selected yet, tap to choose</string>
+    <string name="tap_on_app_name_to_change_it">Tap on app name to change it</string>
+    <string name="kiosk_mode_for_app">Kiosk mode for app:</string>
+</resources>
